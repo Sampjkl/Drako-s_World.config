@@ -615,7 +615,14 @@
     ]
   },
   "minecraft:zombie_villager": {
-    "disallowedTypes": []
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "EVENT",
+      "NATURAL",
+      "REINFORCEMENT",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
   },
   "minecraft:zombified_piglin": {
     "disallowedTypes": [
