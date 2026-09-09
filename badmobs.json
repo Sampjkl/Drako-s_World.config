@@ -57,12 +57,7 @@
     "disallowedTypes": []
   },
   "minecraft:blaze": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
+    "disallowedTypes": []
   },
   "minecraft:bogged": {
     "disallowedTypes": [
@@ -73,12 +68,7 @@
     ]
   },
   "minecraft:breeze": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
+    "disallowedTypes": []
   },
   "minecraft:camel": {
     "disallowedTypes": [
@@ -417,12 +407,7 @@
     ]
   },
   "minecraft:shulker": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
+    "disallowedTypes": []
   },
   "minecraft:silverfish": {
     "disallowedTypes": [
@@ -632,6 +617,190 @@
       "STRUCTURE"
     ]
   },
+  "aether:phyg": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:flying_cow": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:sheepuff": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:moa": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:aerbunny": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:aerwhale": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:blue_swet": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:golden_swet": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:whirlwind": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:evil_whirlwind": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:aechor_plant": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:cockatrice": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:zephyr": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:mimic": {
+    "disallowedTypes": []
+  },
+  "aether:sentry": {
+    "disallowedTypes": []
+  },
+  "aether:slider": {
+    "disallowedTypes": []
+  },
+  "aether:valkyrie": {
+    "disallowedTypes": []
+  },
+  "aether:valkyrie_queen": {
+    "disallowedTypes": []
+  },
+  "aether:fire_minion": {
+    "disallowedTypes": [
+      "CHUNK_GENERATION",
+      "NATURAL",
+      "SPAWNER",
+      "STRUCTURE"
+    ]
+  },
+  "aether:sun_spirit": {
+    "disallowedTypes": []
+  },
+  "aether:skyroot_boat": {
+    "disallowedTypes": []
+  },
+  "aether:skyroot_chest_boat": {
+    "disallowedTypes": []
+  },
+  "aether:cloud_minion": {
+    "disallowedTypes": []
+  },
+  "aether:cold_parachute": {
+    "disallowedTypes": []
+  },
+  "aether:golden_parachute": {
+    "disallowedTypes": []
+  },
+  "aether:floating_block": {
+    "disallowedTypes": []
+  },
+  "aether:tnt_present": {
+    "disallowedTypes": []
+  },
+  "aether:zephyr_snowball": {
+    "disallowedTypes": []
+  },
+  "aether:cloud_crystal": {
+    "disallowedTypes": []
+  },
+  "aether:fire_crystal": {
+    "disallowedTypes": []
+  },
+  "aether:ice_crystal": {
+    "disallowedTypes": []
+  },
+  "aether:thunder_crystal": {
+    "disallowedTypes": []
+  },
+  "aether:golden_dart": {
+    "disallowedTypes": []
+  },
+  "aether:poison_dart": {
+    "disallowedTypes": []
+  },
+  "aether:enchanted_dart": {
+    "disallowedTypes": []
+  },
+  "aether:poison_needle": {
+    "disallowedTypes": []
+  },
+  "aether:lightning_knife": {
+    "disallowedTypes": []
+  },
+  "aether:hammer_projectile": {
+    "disallowedTypes": []
+  },
   "cobblemon:pokemon": {
     "disallowedTypes": []
   },
@@ -651,18 +820,6 @@
     "disallowedTypes": []
   },
   "cobblemon:chest_boat": {
-    "disallowedTypes": []
-  },
-  "cobblemontrainerbattle:neutral_trainer": {
-    "disallowedTypes": []
-  },
-  "cobblemontrainerbattle:static_trainer": {
-    "disallowedTypes": []
-  },
-  "cobblemontrainerbattle:trainer": {
-    "disallowedTypes": []
-  },
-  "cobblemontrainerbattle:mannequin": {
     "disallowedTypes": []
   },
   "fightorflight:tracing_bullet": {
@@ -690,15 +847,6 @@
     "disallowedTypes": []
   },
   "fightorflight:magic_effect": {
-    "disallowedTypes": []
-  },
-  "legendarymonuments:distortion_portal": {
-    "disallowedTypes": []
-  },
-  "legendarymonuments:grunt": {
-    "disallowedTypes": []
-  },
-  "legendarymonuments:seat": {
     "disallowedTypes": []
   }
 }
