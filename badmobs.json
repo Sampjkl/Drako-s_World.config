@@ -1,6 +1,6 @@
 {
   "_comment": {
-    "description": "List types you want to block in \u0027disallowedTypes\u0027.",
+    "description": "List types you want to block in 'disallowedTypes'.",
     "available_types_help": {
       "NATURAL": "Normal world spawning (darkness, grass, etc.)",
       "CHUNK_GENERATION": "Spawned when a new chunk is created",
@@ -21,654 +21,102 @@
       "TRIAL_SPAWNER": "No description available."
     }
   },
-  "minecraft:allay": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:armadillo": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:axolotl": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:bat": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:bee": {
-    "disallowedTypes": []
-  },
-  "minecraft:blaze": {
-    "disallowedTypes": []
-  },
-  "minecraft:bogged": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:breeze": {
-    "disallowedTypes": []
-  },
-  "minecraft:camel": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:cat": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:cave_spider": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "JOCKEY",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:chicken": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "JOCKEY",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:cod": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:cow": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:creeper": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:dolphin": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:donkey": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:drowned": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "CONVERSION",
-      "EVENT",
-      "NATURAL",
-      "REINFORCEMENT",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:elder_guardian": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:ender_dragon": {
-    "disallowedTypes": []
-  },
-  "minecraft:enderman": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:endermite": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:evoker": {
-    "disallowedTypes": []
-  },
-  "minecraft:fox": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:frog": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:ghast": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:giant": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:glow_squid": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:goat": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:guardian": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:hoglin": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "JOCKEY",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:horse": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:husk": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "CONVERSION",
-      "EVENT",
-      "NATURAL",
-      "REINFORCEMENT",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:illusioner": {
-    "disallowedTypes": []
-  },
-  "minecraft:iron_golem": {
-    "disallowedTypes": []
-  },
-  "minecraft:llama": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:magma_cube": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:mooshroom": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:mule": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:ocelot": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:panda": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:parrot": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:phantom": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:pig": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:piglin": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:piglin_brute": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:pillager": {
-    "disallowedTypes": []
-  },
-  "minecraft:polar_bear": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:pufferfish": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:rabbit": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:ravager": {
-    "disallowedTypes": []
-  },
-  "minecraft:salmon": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:sheep": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:shulker": {
-    "disallowedTypes": []
-  },
-  "minecraft:silverfish": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:skeleton": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "CONVERSION",
-      "EVENT",
-      "NATURAL",
-      "REINFORCEMENT",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:skeleton_horse": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "CONVERSION",
-      "EVENT",
-      "JOCKEY",
-      "NATURAL",
-      "REINFORCEMENT",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:slime": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:sniffer": {
-    "disallowedTypes": []
-  },
-  "minecraft:snow_golem": {
-    "disallowedTypes": []
-  },
-  "minecraft:spider": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "JOCKEY",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:squid": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:stray": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:strider": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "JOCKEY",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:tadpole": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:trader_llama": {
-    "disallowedTypes": []
-  },
-  "minecraft:tropical_fish": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:turtle": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:vex": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:villager": {
-    "disallowedTypes": []
-  },
-  "minecraft:vindicator": {
-    "disallowedTypes": []
-  },
-  "minecraft:wandering_trader": {
-    "disallowedTypes": []
-  },
-  "minecraft:warden": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:witch": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "CONVERSION",
-      "EVENT",
-      "NATURAL",
-      "REINFORCEMENT",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:wither": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:wither_skeleton": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:wolf": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:zoglin": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:zombie": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "CONVERSION",
-      "EVENT",
-      "NATURAL",
-      "REINFORCEMENT",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:zombie_horse": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:zombie_villager": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "EVENT",
-      "NATURAL",
-      "REINFORCEMENT",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "minecraft:zombified_piglin": {
-    "disallowedTypes": [
-      "CHUNK_GENERATION",
-      "NATURAL",
-      "SPAWNER",
-      "STRUCTURE"
-    ]
-  },
-  "cobblemon:pokemon": {
-    "disallowedTypes": []
-  },
-  "cobblemon:empty_pokeball": {
-    "disallowedTypes": []
-  },
-  "cobblemon:npc": {
-    "disallowedTypes": []
-  },
-  "cobblemon:generic_bedrock": {
-    "disallowedTypes": []
-  },
-  "cobblemon:poke_bobber": {
-    "disallowedTypes": []
-  },
-  "cobblemon:boat": {
-    "disallowedTypes": []
-  },
-  "cobblemon:chest_boat": {
-    "disallowedTypes": []
-  },
-  "fightorflight:tracing_bullet": {
-    "disallowedTypes": []
-  },
-  "fightorflight:arrow_projectile": {
-    "disallowedTypes": []
-  },
-  "fightorflight:bullet_projectile": {
-    "disallowedTypes": []
-  },
-  "fightorflight:spike_projectile": {
-    "disallowedTypes": []
-  },
-  "fightorflight:floating_spike_projectile": {
-    "disallowedTypes": []
-  },
-  "fightorflight:sticky_web": {
-    "disallowedTypes": []
-  },
-  "fightorflight:tornado": {
-    "disallowedTypes": []
-  },
-  "fightorflight:whirlpool": {
-    "disallowedTypes": []
-  },
-  "fightorflight:magic_effect": {
-    "disallowedTypes": []
-  }
+  "minecraft:allay": { "disallowedTypes": ["STRUCTURE"] },
+  "minecraft:armadillo": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:axolotl": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:bat": { "disallowedTypes": ["NATURAL"] },
+  "minecraft:bee": { "disallowedTypes": [] },
+  "minecraft:blaze": { "disallowedTypes": [] },
+  "minecraft:bogged": { "disallowedTypes": ["NATURAL", "SPAWNER", "STRUCTURE"] },
+  "minecraft:breeze": { "disallowedTypes": [] },
+  "minecraft:camel": { "disallowedTypes": ["CHUNK_GENERATION"] },
+  "minecraft:cat": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL", "STRUCTURE"] },
+  "minecraft:cave_spider": { "disallowedTypes": ["SPAWNER"] },
+  "minecraft:chicken": { "disallowedTypes": ["CHUNK_GENERATION", "JOCKEY", "NATURAL"] },
+  "minecraft:cod": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:cow": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:creeper": { "disallowedTypes": ["NATURAL"] },
+  "minecraft:dolphin": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:donkey": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:drowned": { "disallowedTypes": ["CONVERSION", "NATURAL", "STRUCTURE"] },
+  "minecraft:elder_guardian": { "disallowedTypes": ["STRUCTURE"] },
+  "minecraft:ender_dragon": { "disallowedTypes": [] },
+  "minecraft:enderman": { "disallowedTypes": ["NATURAL"] },
+  "minecraft:endermite": { "disallowedTypes": ["TRIGGERED"] },
+  "minecraft:evoker": { "disallowedTypes": [] },
+  "minecraft:fox": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:frog": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:ghast": { "disallowedTypes": ["NATURAL"] },
+  "minecraft:giant": { "disallowedTypes": [] },
+  "minecraft:glow_squid": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:goat": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:guardian": { "disallowedTypes": ["NATURAL", "STRUCTURE"] },
+  "minecraft:hoglin": { "disallowedTypes": ["NATURAL", "STRUCTURE"] },
+  "minecraft:horse": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:husk": { "disallowedTypes": ["CONVERSION", "EVENT", "NATURAL", "REINFORCEMENT"] },
+  "minecraft:illusioner": { "disallowedTypes": [] },
+  "minecraft:iron_golem": { "disallowedTypes": [] },
+  "minecraft:llama": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:magma_cube": { "disallowedTypes": ["NATURAL", "SPAWNER"] },
+  "minecraft:mooshroom": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:mule": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:ocelot": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:panda": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:parrot": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:phantom": { "disallowedTypes": ["EVENT", "NATURAL"] },
+  "minecraft:pig": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:piglin": { "disallowedTypes": ["NATURAL", "STRUCTURE"] },
+  "minecraft:piglin_brute": { "disallowedTypes": ["STRUCTURE"] },
+  "minecraft:pillager": { "disallowedTypes": [] },
+  "minecraft:polar_bear": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:pufferfish": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:rabbit": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:ravager": { "disallowedTypes": [] },
+  "minecraft:salmon": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:sheep": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:shulker": { "disallowedTypes": [] },
+  "minecraft:silverfish": { "disallowedTypes": ["SPAWNER", "TRIGGERED"] },
+  "minecraft:skeleton": { "disallowedTypes": ["EVENT", "NATURAL", "SPAWNER"] },
+  "minecraft:skeleton_horse": { "disallowedTypes": ["EVENT", "JOCKEY", "NATURAL", "TRIGGERED"] },
+  "minecraft:slime": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:sniffer": { "disallowedTypes": [] },
+  "minecraft:snow_golem": { "disallowedTypes": [] },
+  "minecraft:spider": { "disallowedTypes": ["JOCKEY", "NATURAL", "SPAWNER"] },
+  "minecraft:squid": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:stray": { "disallowedTypes": ["CONVERSION", "NATURAL"] },
+  "minecraft:strider": { "disallowedTypes": ["JOCKEY", "NATURAL"] },
+  "minecraft:tadpole": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:trader_llama": { "disallowedTypes": [] },
+  "minecraft:tropical_fish": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:turtle": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:vex": { "disallowedTypes": ["MOB_SUMMONED"] },
+  "minecraft:villager": { "disallowedTypes": [] },
+  "minecraft:vindicator": { "disallowedTypes": [] },
+  "minecraft:wandering_trader": { "disallowedTypes": [] },
+  "minecraft:warden": { "disallowedTypes": ["TRIGGERED"] },
+  "minecraft:witch": { "disallowedTypes": ["CONVERSION", "EVENT", "NATURAL", "STRUCTURE"] },
+  "minecraft:wither": { "disallowedTypes": ["TRIGGERED"] },
+  "minecraft:wither_skeleton": { "disallowedTypes": ["STRUCTURE", "SPAWNER"] },
+  "minecraft:wolf": { "disallowedTypes": ["CHUNK_GENERATION", "NATURAL"] },
+  "minecraft:zoglin": { "disallowedTypes": ["CONVERSION"] },
+  "minecraft:zombie": { "disallowedTypes": ["CONVERSION", "EVENT", "NATURAL", "REINFORCEMENT", "SPAWNER"] },
+  "minecraft:zombie_horse": { "disallowedTypes": ["EVENT"] },
+  "minecraft:zombie_villager": { "disallowedTypes": ["CONVERSION", "NATURAL", "STRUCTURE"] },
+  "minecraft:zombified_piglin": { "disallowedTypes": ["CONVERSION", "NATURAL", "STRUCTURE"] },
+  "cobblemon:pokemon": { "disallowedTypes": [] },
+  "cobblemon:empty_pokeball": { "disallowedTypes": [] },
+  "cobblemon:npc": { "disallowedTypes": [] },
+  "cobblemon:generic_bedrock": { "disallowedTypes": [] },
+  "cobblemon:poke_bobber": { "disallowedTypes": [] },
+  "cobblemon:boat": { "disallowedTypes": [] },
+  "cobblemon:chest_boat": { "disallowedTypes": [] },
+  "fightorflight:tracing_bullet": { "disallowedTypes": [] },
+  "fightorflight:arrow_projectile": { "disallowedTypes": [] },
+  "fightorflight:bullet_projectile": { "disallowedTypes": [] },
+  "fightorflight:spike_projectile": { "disallowedTypes": [] },
+  "fightorflight:floating_spike_projectile": { "disallowedTypes": [] },
+  "fightorflight:sticky_web": { "disallowedTypes": [] },
+  "fightorflight:tornado": { "disallowedTypes": [] },
+  "fightorflight:whirlpool": { "disallowedTypes": [] },
+  "fightorflight:magic_effect": { "disallowedTypes": [] }
 }
