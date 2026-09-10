@@ -18,7 +18,7 @@
 	// If this is set to true, player's Pokemon won't attack shiny Pokemon
 	"not_attacking_wild_shiny": true,
 	// If a wild Pokemon's aggro is above this value, it will attack the player proactively
-	"aggressive_threshold": 80.0,
+	"aggressive_threshold": 100.0,
 	// If a wild Pokemon's aggro is above this value and lower than the aggressive_threshold, it will fight back when attacked,if the Pokemon's aggro is lower than this, it will just run away.
 	"neutral_threshold": 20.0,
 	// The value of the aggression if the Pokemon's level reaches 100.
@@ -108,7 +108,7 @@
 		"carvanha",
 		"sharpedo",
 		"veluza"
-],
+	],
 	// Pokemon that will never be aggressive, priority over always aggresive species/forms
 	"never_aggro": [
 		"slowpoke",
@@ -130,7 +130,7 @@
 		"abra",
 		"magikarp",
 		"eevee",
-		"feebas",
+		"feebas"
 	],
 	// Abilities that will reduce wild pokemon's aggro
 	"aggro_reducing_abilities": [
@@ -172,7 +172,7 @@
 	"can_gain_ev": true,
 	// The minimum EXP. player's Pokemon can gain from killing a Pokemon without battle
 	"min_xp_from_pokemon": 1,
-	// The maximum EXP. player's Pokemon can gain from killing a Pokemon without battle. If this value is lower than zero, there will be no limit.
+	// The minimum EXP. player's Pokemon can gain from killing a Pokemon without battle. If this value is lower than zero, there will be no limit.
 	"max_xp_from_pokemon": -1,
 	// If you want all the player's Pokemon that dealt the damage to gain EXP. and EV points
 	"pokemon_share_yield": true,
@@ -279,7 +279,7 @@
 	// If you want to use the FOF style hp calculation.
 	"use_fof_style_hp_calculation": true,
 	// If health sync will work on the wild pokemon, set to false will heal them on standard pokemon battle start if they were damaged before.
-	"enable_health_sync_for_wild_pokemon": false,
+	"enable_health_sync_for_wild_pokemon": true,
 	// The minimum hp of a pokemon outside standard pokemon battle,shedinja is set to 1.0 and can't be changed.
 	"min_HP": 8,
 	// The medium hp value of a pokemon outside standard pokemon battle,the medium value is designed to allow you to better tweak the growth of HP value for the entity
